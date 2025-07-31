@@ -1,0 +1,3 @@
+Brief Introduction About Myself
+My name is Noelle Marie Ingabire. I am currently studying Linux and systems management. I enjoy exploring technology and learning new tools like Git and GitHub. I have an interest in working with open-source projects in the future.
+Outside of studies, I like reading, listening to music, and creating content online. I am excited to gain more experience in the world of development and collaboration.
